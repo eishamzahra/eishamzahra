@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Eisham Zahra 👋
 
-<!--
-**eishamzahra/eishamzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student at NUML Multan
 
-Here are some ideas to get you started:
+💻 Interested in Full-Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Exploring Cybersecurity and Ethical Hacking
+
+🤖 Learning to build AI-powered applications
+
+### 🛠️ Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **Security Tools:** Nmap, Burp Suite, OWASP ZAP
+- **Tools:** Git, GitHub, VS Code
+
